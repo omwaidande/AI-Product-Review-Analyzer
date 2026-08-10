@@ -1,9 +1,0 @@
-.env
-**/.env
-*.env
-.env.*
-**/.env.*
-*.local
-*.secret
-*.pem
-*.key
